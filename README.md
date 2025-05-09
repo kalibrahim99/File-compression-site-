@@ -27,7 +27,4 @@ A sleek and modern file compression tool built with React, TypeScript, Vite, and
 ```bash
 npm install
 npm run dev
-
-Build for Production
-
 npm run build
